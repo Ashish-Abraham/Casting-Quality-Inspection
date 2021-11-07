@@ -5,6 +5,7 @@ Automation is the new key to boost industries. Keeping track of quality is very 
 * Framework : TensorFlow( Version: 2.6.0 )
 * Algorithm : Convolutional Neural Network 2D
 * Validation Accuracy : 98.3%
+* Dastaset used:<br />https://www.google.com/url?q=https://www.kaggle.com/ravirajsinh45/real-life-industrial-dataset-of-casting-product&sa=D&source=editors&ust=1636267848733000&usg=AOvVaw3NUUMxM42eWTG4UWRwtdwV
 * **Defective Sample**<br />
 ![Image](https://github.com/Ashish-Abraham/Casting-Quality-Inspection/blob/main/Casting%20Data/Defective%20Samples/cast_def_0_11.jpeg)
 * **Non-Defective Sample**<br />
